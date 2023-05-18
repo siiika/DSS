@@ -1,0 +1,19 @@
+C:\Users\Adham\Desktop\DrAmr\DrAmr\bin\Debug\net5.0\DrAmr.exe
+C:\Users\Adham\Desktop\DrAmr\DrAmr\bin\Debug\net5.0\DrAmr.deps.json
+C:\Users\Adham\Desktop\DrAmr\DrAmr\bin\Debug\net5.0\DrAmr.runtimeconfig.json
+C:\Users\Adham\Desktop\DrAmr\DrAmr\bin\Debug\net5.0\DrAmr.runtimeconfig.dev.json
+C:\Users\Adham\Desktop\DrAmr\DrAmr\bin\Debug\net5.0\DrAmr.dll
+C:\Users\Adham\Desktop\DrAmr\DrAmr\bin\Debug\net5.0\ref\DrAmr.dll
+C:\Users\Adham\Desktop\DrAmr\DrAmr\bin\Debug\net5.0\DrAmr.pdb
+C:\Users\Adham\Desktop\DrAmr\DrAmr\obj\Debug\net5.0\DrAmr.csproj.AssemblyReference.cache
+C:\Users\Adham\Desktop\DrAmr\DrAmr\obj\Debug\net5.0\DrAmr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Adham\Desktop\DrAmr\DrAmr\obj\Debug\net5.0\DrAmr.AssemblyInfoInputs.cache
+C:\Users\Adham\Desktop\DrAmr\DrAmr\obj\Debug\net5.0\DrAmr.AssemblyInfo.cs
+C:\Users\Adham\Desktop\DrAmr\DrAmr\obj\Debug\net5.0\DrAmr.csproj.CoreCompileInputs.cache
+C:\Users\Adham\Desktop\DrAmr\DrAmr\obj\Debug\net5.0\DrAmr.dll
+C:\Users\Adham\Desktop\DrAmr\DrAmr\obj\Debug\net5.0\ref\DrAmr.dll
+C:\Users\Adham\Desktop\DrAmr\DrAmr\obj\Debug\net5.0\DrAmr.pdb
+C:\Users\Adham\Desktop\DrAmr\DrAmr\obj\Debug\net5.0\DrAmr.genruntimeconfig.cache
+C:\Users\Adham\Desktop\DrAmr\DrAmr\bin\Debug\net5.0\Decision Making Metods.dll
+C:\Users\Adham\Desktop\DrAmr\DrAmr\bin\Debug\net5.0\Decision Making Metods.pdb
+C:\Users\Adham\Desktop\DrAmr\DrAmr\obj\Debug\net5.0\DrAmr.csproj.CopyComplete
